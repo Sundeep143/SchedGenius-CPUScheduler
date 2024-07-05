@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    background-color: red;
+  background-image: linear-gradient(to bottom right, white, pink, yellow);*/
+}
+
+.navbar{
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  margin-top: 10px;
+  font-family: "Tangerine", serif;
+  font-stretch: expanded;
+  color: Black;
+  font-size: 100px;
+  font-weight: 100;
+  line-height: 90px;
+
+}
+
+form-group{
+  vertical-align: middle;
+}
+
+buttonAlgo{
+    border-radius: 15px !important; 
+    width: 70px;
+}
+
+timeQuantum{
+  width: 80px;
+}
+
+button{
+  color: #fff;
+  text-align: center; letter-spacing: 2px;
+  text-transform: uppercase;
+  background-color: rgba(0,185, 255, -01);
+
+  border: 1px solid #fbf8f8; 
+  border-radius: 4px; 
+  margin-left: 10px; 
+  margin-right: 10px; 
+  padding: 12px 30px; 
+  font-size: 16px; 
+  font-weight: 300; 
+  line-height: 21px; 
+  text-decoration: none;
+  transition: background-color -35;
+  display: inline-block;
+}
+
+form-control mb-2{
+  text-align: center;
+}
